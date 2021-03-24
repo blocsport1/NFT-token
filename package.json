@@ -1,0 +1,14 @@
+{
+  "name": "NFT-token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/blocsport1/NFT-token.git",
+  "author": "nicetech-creator <toptech20190609@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@truffle/hdwallet-provider": "1.2.3",
+    "dotenv": "^8.2.0",
+    "truffle-plugin-verify": "^0.5.7"
+  }
+}
